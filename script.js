@@ -11,6 +11,6 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function () {
-  alert("Que pena! Então vamos comer um Salpicão da discórdia");
+  alert("Que pena!");
 });
 
