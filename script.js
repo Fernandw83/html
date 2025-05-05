@@ -11,6 +11,6 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function () {
-  alert("Resposta correta! Vamos comer um Salpicão da discórdia");
+  alert("Que pena! Então vamos comer um Salpicão da discórdia");
 });
 
