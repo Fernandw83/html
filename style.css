@@ -35,7 +35,3 @@ div.buttons {
   grid-column-gap: 100px;
   margin-top: 30px;
 }
-
-.element {
-  transform: scale(2);
-  }
